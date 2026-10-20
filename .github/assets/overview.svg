@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="302" viewBox="0 0 880 302" role="img" aria-label="notify.me.at at a glance: A topic is a URL, Four ways to hear it, Closed unless opened, Sent at most once">
+<rect x="0.5" y="0.5" width="879" height="301" rx="12" fill="#ffffff" stroke="#e5e5e5"/>
+<rect x="24" y="24" width="196" height="254" rx="10" fill="#fafafa" stroke="#e5e5e5"/>
+<text x="44" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#a3a3a3">01</text>
+<line x1="72" y1="56" x2="200" y2="56" stroke="#d4d4d4" stroke-width="1"/>
+<text x="44" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#0a0a0a" font-weight="600"><tspan x="44" dy="0">A topic is a</tspan><tspan x="44" dy="22">URL</tspan></text>
+<text x="44" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#525252"><tspan x="44" dy="0">POST to a topic and</tspan><tspan x="44" dy="21">every subscriber</tspan><tspan x="44" dy="21">hears about it.</tspan><tspan x="44" dy="21">Publishing is one</tspan><tspan x="44" dy="21">HTTP request, so curl</tspan><tspan x="44" dy="21">is enough.</tspan></text>
+<rect x="236" y="24" width="196" height="254" rx="10" fill="#fafafa" stroke="#e5e5e5"/>
+<text x="256" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#a3a3a3">02</text>
+<line x1="284" y1="56" x2="412" y2="56" stroke="#d4d4d4" stroke-width="1"/>
+<text x="256" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#0a0a0a" font-weight="600"><tspan x="256" dy="0">Four ways to</tspan><tspan x="256" dy="22">hear it</tspan></text>
+<text x="256" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#525252"><tspan x="256" dy="0">Web push, a live</tspan><tspan x="256" dy="21">socket, email or a</tspan><tspan x="256" dy="21">signed webhook, each</tspan><tspan x="256" dy="21">with typed results</tspan><tspan x="256" dy="21">that decide retry or</tspan><tspan x="256" dy="21">removal.</tspan></text>
+<rect x="448" y="24" width="196" height="254" rx="10" fill="#fafafa" stroke="#e5e5e5"/>
+<text x="468" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#a3a3a3">03</text>
+<line x1="496" y1="56" x2="624" y2="56" stroke="#d4d4d4" stroke-width="1"/>
+<text x="468" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#0a0a0a" font-weight="600"><tspan x="468" dy="0">Closed unless</tspan><tspan x="468" dy="22">opened</tspan></text>
+<text x="468" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#525252"><tspan x="468" dy="0">Publishing needs a</tspan><tspan x="468" dy="21">write token.</tspan><tspan x="468" dy="21">Anonymous publishing</tspan><tspan x="468" dy="21">is a per-topic opt-in</tspan><tspan x="468" dy="21">with its own limits.</tspan></text>
+<rect x="660" y="24" width="196" height="254" rx="10" fill="#fafafa" stroke="#e5e5e5"/>
+<text x="680" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#a3a3a3">04</text>
+<line x1="708" y1="56" x2="836" y2="56" stroke="#d4d4d4" stroke-width="1"/>
+<text x="680" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#0a0a0a" font-weight="600"><tspan x="680" dy="0">Sent at most</tspan><tspan x="680" dy="22">once</tspan></text>
+<text x="680" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#525252"><tspan x="680" dy="0">Deliveries are</tspan><tspan x="680" dy="21">claimed through a</tspan><tspan x="680" dy="21">database constraint,</tspan><tspan x="680" dy="21">so a retried job</tspan><tspan x="680" dy="21">never sends twice.</tspan></text>
+</svg>
